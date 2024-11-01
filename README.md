@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AlanBogarin
+- 👀 I’m interested in the development of new, more secure OS
+- 🌱 I’m currently learning Flutter and Rust
+- 📫 How to reach me: bogarin01alan@gmail.com
+- ⚡ Fun fact: One person's craziness is another person's reality
