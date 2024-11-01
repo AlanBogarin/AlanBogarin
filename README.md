@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlanBogarin
+- 👋 Hi, I’m a Python developer
 - 👀 I’m interested in the development of new, more secure OS
 - 🌱 I’m currently learning Flutter and Rust
 - 📫 How to reach me: bogarin01alan@gmail.com
