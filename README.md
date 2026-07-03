@@ -13,6 +13,7 @@ I’m currently learning Blender and Luau.
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AlanBogarin&theme=tokyonight&hide_border=true&mode=weekly" width="75%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlanBogarin&theme=tokyonight" width="75%"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=anuraghazra&langs_count=5" width="50%"/>
 </p>
 
 ---
